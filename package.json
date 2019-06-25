@@ -1,0 +1,28 @@
+{
+  "name": "mini-crawl",
+  "version": "1.0.0",
+  "description": "- http://www.zhufengpeixun.com/plan/html/30.cms-1-mysql.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webfrontup/mini-crawl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webfrontup/mini-crawl/issues"
+  },
+  "homepage": "https://github.com/webfrontup/mini-crawl#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "multer": "^1.4.1",
+    "request": "^2.88.0"
+  }
+}
