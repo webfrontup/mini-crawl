@@ -1,4 +1,10 @@
 # mini-crawl
+```sql
+-- mac 新增/删除 环境变量
+export http_proxy=http://127.0.0.1:8123/
+unset http_proxy
+```
+
 ### mysql
 - http://www.zhufengpeixun.com/plan/html/30.cms-1-mysql.html
 
@@ -11,7 +17,7 @@
 - sql-mode 语法模式
 - max-connections 最大连接数
 
-
+- win端 xampp (mariaDB) https://www.apachefriends.org/download.html
 
 ### crawl
 - http://www.zhufengpeixun.com/plan/html/39.crawl-1.html
@@ -30,3 +36,14 @@
  
 ### cheerio
 - cheerio是一个节点的库，可以理解为一个Node.js的版本的jquery的，使用方式和jquery的基本相同。
+- http://www.zhufengpeixun.com/plan/html/39.crawl-1.html#t93.2%20cheerio
+
+### cron
+- cron用来周期性的执行某种任务或等待处理某些事件的一个守护进程
+- http://www.zhufengpeixun.com/plan/html/39.crawl-1.html#t463.4%20corn
+
+### 发送邮件
+- nodemailer是一个简单易用的Node.js邮件发送模块
+
+
+
